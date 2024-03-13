@@ -19,7 +19,7 @@ require (
 	github.com/spf13/cobra v1.1.1
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/text v0.3.7
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.22.3
